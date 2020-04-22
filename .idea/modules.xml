@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CameraView.iml" filepath="$PROJECT_DIR$/CameraView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CameraView-master.iml" filepath="$PROJECT_DIR$/CameraView-master.iml" group="CameraView-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/CameraView-master-app.iml" filepath="$PROJECT_DIR$/app/CameraView-master-app.iml" group="CameraView-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/camera/CameraView-master-camera.iml" filepath="$PROJECT_DIR$/camera/CameraView-master-camera.iml" group="CameraView-master/camera" />
+      <module fileurl="file://$PROJECT_DIR$/cameraapplication/CameraView-master-cameraapplication.iml" filepath="$PROJECT_DIR$/cameraapplication/CameraView-master-cameraapplication.iml" group="CameraView-master/cameraapplication" />
+      <module fileurl="file://$PROJECT_DIR$/JCameraView.iml" filepath="$PROJECT_DIR$/JCameraView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camera/camera.iml" filepath="$PROJECT_DIR$/camera/camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cameraapplication/cameraapplication.iml" filepath="$PROJECT_DIR$/cameraapplication/cameraapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camerademo/camerademo.iml" filepath="$PROJECT_DIR$/camerademo/camerademo.iml" />
+    </modules>
+  </component>
+</project>
